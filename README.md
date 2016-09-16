@@ -41,7 +41,7 @@ The majority of the police agencies we chose are municipal departments, and for 
 * Montgomery County, Md., Police Department
 * Nassau County, N.Y., Police Department
 * Prince George’s County, Md. Police Department
-* Suffolk County, Md., Police Department
+* Suffolk County, N.Y., Police Department
 
 In some cases, the department or its state reporting agency had already published 2015 numbers using the FBI’s Uniform Crime Reporting summary reporting system. In several cases, we had to ask the department directly for the figures. Many had to convert the data from a newer, [incident-based system](https://ucr.fbi.gov/nibrs-overview) to the summary system.
 
